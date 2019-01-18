@@ -1,0 +1,2 @@
+# baruaja.js
+baruaja
